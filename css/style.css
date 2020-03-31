@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,400,600&display=swap");
+
+body {
+  font-family: "Poppins";
+  font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
+
+
+}
+
+.top-container {
+  text-align: center;
+  width: 40%;
+  margin: 0 auto 0 auto;
+  line-height: 1.2;
+}
+
+.topline {
+  font-weight: normal;
+  font-weight: 200;
+  margin-bottom: 5px;
+}
+
+.under-title {
+  margin-top: 10px;
+}
+
+.p-top {
+  font-weight: 200;
+  line-height: 1.5;
+  margin-bottom: 80px;
+}
+
+.card-supervisor {
+  width: 20%;
+  border-top: 6px solid hsl(180, 62%, 55%);
+  padding: 25px 50px 30px 50px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 8px 20px -12px grey;
+  background-color: white;
+  font-weight: 200;
+  position: absolute;
+  top: 50%;
+  right: 65%;
+}
+
+.card-team {
+  width: 20%;
+  border-top: 6px solid red;
+  padding: 25px 50px 30px 50px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 8px 20px -12px grey;
+  background-color: white;
+  font-weight: 200;
+  position: absolute;
+  right:35%;
+  top: 30%;
+}
+
+.card-karma {
+  width: 20%;
+  border-top: 6px solid hsl(34, 97%, 64%);
+  padding: 25px 50px 30px 50px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 8px 20px -12px grey;
+  background-color: white;
+  font-weight: 200;
+  position: absolute;
+  right: 35%;
+  top: 80%;
+}
+
+.card-calculator {
+  width: 20%;
+  border-top: 6px solid hsl(212, 86%, 64%);
+  padding: 25px 50px 30px 50px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 8px 20px -12px grey;
+  background-color: white;
+  font-weight: 200;
+  position: absolute;
+  top: 50%;
+  left: 64%;
+
+
+}
+
+.supervisor-image {
+  position: relative;
+  left: 80%;
+}
+
+.team-image {
+  position: relative;
+  left: 80%;
+}
+
+.karma-image {
+  position: relative;
+  left: 80%;
+}
+
+.calculator-image {
+  position: relative;
+  left: 80%;
+
+}
+.attribution{
+  position: absolute;
+  bottom: -40%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+
+}
